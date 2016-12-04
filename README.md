@@ -1,6 +1,12 @@
 # 2016-12-C-
 Personal C++ projects
 
+NOTE: right now, the code is not in a good coding convention, and there can be few improvements:
+1. speed estimation - probably should apply optical flow
+2. more verification needed
+3. read input from video and store video frames in sequence
+4. ...
+
 Vehicle Detection and Speed Estimation
 
 Abstract
